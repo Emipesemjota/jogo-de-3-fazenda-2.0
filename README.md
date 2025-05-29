@@ -1,2 +1,5 @@
-# jogo-de-3-fazenda-2.0
-wasd, up,down,left,right, IJKL. NAO MORRA.................................................................................................................................................................................................criado por IA
+@jogo 2.0
+COMO JOGA: PRECISA DE AMIGOS
+WASD P1, SETAS P2, IJKL P3.
+
+SOBRE O JOGO: UM JOGO DE FAZENDA EM QUE VOCE PRECISA COLETAR AS GRAMAS QUE FORAM ESPALHADAS PELO  GADO, NÂO MORRA PELOS TIROS QUE IRÃO VIR EM SUA DIREÇÃO.
